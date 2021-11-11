@@ -1,0 +1,21 @@
+.Form {
+    background-color:ghostwhite ;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border: firebrick 2px solid;
+    border-radius: 50px;
+}
+.Form_text {
+    display: flex;
+    justify-content: center;
+}
+.Form_container {
+    padding-top: 20px;
+}
+.Form_container_num {
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+}
